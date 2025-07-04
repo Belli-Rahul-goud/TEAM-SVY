@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+background-color: whitesmoke;
+  color: #000000;
+  line-height: 1.6;
+  background-image: url('./logo.1-removebg-preview.png');
+   background-size: 1650px;
+            padding-left: 1550px;
+             padding: 1rem 0;
+}
+
+h1{
+  background-color:rgb(99, 101, 105); 
+  color: rgb(255, 255, 255);
+   background-image: url('./h.frame.png');
+            background-repeat:no-repeat;
+            background-position: left ;
+            background-size: 100px;
+            padding-left: 80px;
+             padding: 1rem 0;
+  text-align: center;
+}
+h2{
+  background-color:rgb(99, 101, 105); 
+  color: rgb(255, 255, 255);
+            background-repeat:no-repeat;
+            background-position: left ;
+            background-size: 80px;
+            padding-left: 80px;
+             padding: 1rem 0;
+  text-align: center;
+}
