@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+h1{
+    background-color:rgb(119, 126, 131);
+  
+  color: rgba(255, 255, 255, 0.782);
+   background-image: url('./h.frame.png');
+            background-repeat: no-repeat;
+            background-position: left ;
+            background-size: 100px;
+            padding-left: 80px;
+             padding: 1rem 0;
+  text-align: center;
+}
+body{
+  background-color: beige;
+}
